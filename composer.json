@@ -1,9 +1,3 @@
 {
-  "name" : "tongxuhua/study",
-  "require" : {
-    "monolog/monolog" : "1.2.*"
-  },
-  "autoload" : {
-    "psr-4" : {"Acme\\" : "src/"}
-  }
+  "name" : "tongxuhua/study"
 }
