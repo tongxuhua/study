@@ -1,3 +1,4 @@
 {
-  "name" : "tongxuhua/study"
+  "name" : "tongxuhua/study",
+  "php"   : ">=7.0.*"
 }
